@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Wuerth Extra Bold Cond';
+    src: url('fonts/subset-Wuerth-ExtraBoldCond.woff2') format('woff2'),
+        url('fonts/subset-Wuerth-ExtraBoldCond.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Wuerth Extra Bold Cond Caps';
+    src: url('fonts/subset-Wuerth-ExtraBoldCondCaps.woff2') format('woff2'),
+        url('fonts/subset-Wuerth-ExtraBoldCondCaps.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'WuerthGlobal-Book';
+    src: url('fonts/subset-Wuerth-Book.woff2') format('woff2'),
+        url('fonts/subset-Wuerth-Book.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'WuerthGlobal';
+    src: url('fonts/subset-Wuerth-Bold.woff2') format('woff2'),
+        url('fonts/subset-Wuerth-Bold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: optional;
+}
+
